@@ -11,10 +11,9 @@
 >   - 上传视频评论消息、直播间消息
 
 ### 项目介绍
-```
-目标版本：dy 15.3.0
-下载地址：http://www.anzhi.com/pkg/2332_com.ss.android.ugc.aweme.html
-```
+* 目标版本：dy 15.3.0
+* 下载地址：[百度云盘下载](https://pan.baidu.com/s/1dJiVqelW3-G19CWKpv9ATg)，提取码: 79e4
+
 - app
   - aidl，跨进程大文本传输
   - java
